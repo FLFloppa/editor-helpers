@@ -1,0 +1,27 @@
+{
+  "name": "com.flfloppa.editor-helpers",
+  "displayName": "FLFloppa Editor Helpers",
+  "version": "0.1.0",
+  "description": "Shared editor UI utilities and building blocks for FLFloppa packages.",
+  "unity": "2022.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/FLFloppa/editor-helpers/blob/main/README.md",
+  "changelogUrl": "https://github.com/FLFloppa/editor-helpers/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/FLFloppa/editor-helpers/blob/main/LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FLFloppa/editor-helpers.git"
+  },
+  "author": {
+    "name": "FLFloppa",
+    "email": "flfloppa@yandex.ru",
+    "url": "https://github.com/FLFloppa"
+  },
+  "keywords": [
+    "editor",
+    "ui",
+    "tooling",
+    "flfloppa"
+  ],
+  "category": "Editor"
+}
