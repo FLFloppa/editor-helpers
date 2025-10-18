@@ -51,7 +51,7 @@ The FLFloppa Editor Helpers package ships shared UI Toolkit building blocks used
 2. Select the **+** button → **Add package from git URL…**
 3. Paste the repository URL with the package path:
    ```
-   https://github.com/FLFloppa/events-system.git?path=Packages/FLFloppa%20Editor%20Helpers
+   https://github.com/FLFloppa/events-system.git
    ```
 4. Unity will import the editor helpers assembly.
 
